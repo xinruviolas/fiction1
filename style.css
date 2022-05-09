@@ -2,10 +2,10 @@
 body {
     /* background-color: #8BD4C0; */
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url('background.png');
+    background-image: url('background.jpg');
     background-size: contain;
-    width: 100vw;
-    height: 100vh;
+    width: 200vw;
+    height: 200vh;
 }
 /* .bkg{
     
@@ -20,19 +20,6 @@ a {
 }
 a:hover {
     color:rgb(233, 255, 172);
-}
-
-.deconstructed {
-    display: block;
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-    width: 50%;
-}
-.orchestra {
-    /* display: block; */
-    /* margin-left: auto; */
-    width: 30%;
-    float: right;
 }
 .nav {
     color:white;
@@ -62,7 +49,7 @@ a:hover {
     /* background-color: white; */
     float: left;
     margin: 30px 30px 0 30px;
-    width: 70%;
+    width: 40%;
     height: 80%;
     /* overflow-y: scroll; */
     border-radius: 30px;
@@ -81,4 +68,51 @@ a:hover {
     width: 30%;
     text-align: right;
     font-size: 18px;
+}
+
+.tsc{
+    width: 10%;
+    left: 150vh;
+    top: 150vh;
+    position: relative;
+
+}
+
+.monster{
+    width: 10%;
+    left: 120vh;
+    top: 170vh;
+    position: relative;
+
+}
+
+.fairy{
+    width: 10%;
+    left: 160vh;
+    top: 185vh;
+    position: relative;
+
+}
+
+.mushroom{
+    width: 10%;
+    left: 175vh;
+    top: 85vh;
+    position: relative;
+
+}
+
+.loop{
+    width: 10%;
+    left: 160vh;
+    top: 185vh;
+    position: relative;
+
+}
+.shiny{
+    width: 10%;
+    left: 180vh;
+    top: 35vh;
+    position: relative;
+
 }
