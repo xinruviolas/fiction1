@@ -94,9 +94,12 @@ a:hover {
 }
 
 .fairy{
-    width: 10%;
+    /* width: 10%;
     left: 160vh;
-    top: 185vh;
+    top: 185vh; */
+    width: 10%;
+    left: 175vh;
+    top: 85vh;
     position: relative;
 
 }
